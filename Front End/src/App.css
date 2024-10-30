@@ -1,0 +1,30 @@
+body{
+  background-color: #fff;
+  color: #1c1e21;
+  line-height: 1.34;
+  margin: 0px;
+  padding: 0px;
+  unicode-bidi: embed;
+}
+h2{
+  display: block;
+}
+
+
+input{
+  width:58vh;
+ border-radius: 4px;
+  height: 8vh;
+}
+input::placeholder{
+  padding-left: 10px;
+  font-size: 20px;
+}
+#menu{
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, .1), 0px 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
